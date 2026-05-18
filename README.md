@@ -39,7 +39,7 @@ Tarayıcınızda açılan sekmeden veri setlerinizi üretmeye başlayabilirsiniz
 
 ---
 
-# AI Dataset Generator 📈
+# AI Dataset Generator 
 
 This project is a modular web application that allows you to create dynamic, customizable, and instantly downloadable datasets using the OpenAI API and Streamlit.
 
